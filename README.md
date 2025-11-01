@@ -1,1 +1,0 @@
-# Cognifyz-SDE_Intern
