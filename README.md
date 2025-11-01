@@ -1,4 +1,4 @@
-# 🌟 Python Programming Tasks — Level 1 & 2
+# 🌟 Python Programming Tasks
 
 Welcome to the **"Where Data Meets Intelligence"** Python mini-project series!  
 This repository contains five tasks that demonstrate fundamental to intermediate programming concepts — from basic logic to persistent file storage.
@@ -15,7 +15,7 @@ Each task is fully documented, modular, and written in **clean, beginner-friendl
 | `Task_2.py` | Level 1 | Number Pattern Generator | Prints numeric pyramid patterns using nested loops. |
 | `Task_3.py` | Level 2 | Console-Based CRUD Application | Performs Create, Read, Update, and Delete operations on a list of tasks. |
 | `Task_4.py` | Level 2 | Temperature Converter | Converts temperature between Celsius and Fahrenheit based on user choice. |
-| `Task_5.py` | Level 2 | Persistent CRUD Application | Extends Task 3 by saving tasks to a text file using file I/O operations. |
+| `Task_5.py` | Level 3 | Persistent CRUD Application | Extends Task 3 by saving tasks to a text file using file I/O operations. |
 
 ---
 
